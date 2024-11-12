@@ -1,0 +1,136 @@
+.college-info {
+  height: 410px;
+  top: 132px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #dad3ff;
+}
+
+.college-box {
+  padding-top: 40px;
+  padding-left: 100px;
+  display: flex;
+  gap: 70px;
+}
+
+.college-name {
+  font-family: Poppins;
+  font-size: 20.83px;
+  font-weight: 800;
+  line-height: 31.24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+}
+
+.college-details {
+  display: flex;
+  flex-direction: column;
+  padding-top: 25px;
+  gap: 27px;
+}
+
+.college-place {
+  font-family: Poppins;
+  font-size: 17.55px;
+  font-weight: 600;
+  line-height: 26.33px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #7a6ad7;
+  padding-left: 5px;
+}
+
+.college-rate {
+  display: flex;
+  gap: 70px;
+  align-items: center;
+}
+
+.college-stars {
+  display: flex;
+  gap: 5px;
+  background-color: #554a98;
+  padding: 5px 10px;
+  border-radius: 8px;
+  color: white;
+  font-family: "poppins", sans-serif;
+  font-size: 15.7px;
+  font-weight: 600;
+  line-height: 23.56px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  align-items: center;
+  margin-left: 5px;
+}
+
+.college-rate a {
+  color: black;
+  text-decoration: underline;
+}
+
+.buttons {
+  display: flex;
+  gap: 20px;
+  padding-top: 5px;
+}
+
+.contact-btn {
+  width: Fixed (187.53px) px;
+  height: Hug (56.64px) px;
+  top: 349.36px;
+  left: 653.47px;
+  padding: 11.82px 23.64px 11.82px 23.64px;
+  gap: 7.88px;
+  border-radius: 14.97px;
+  border: 1.58px 0px 0px 0px;
+  opacity: 0px;
+  background-color: #dad3ff;
+  font-family: Poppins;
+  font-size: 22.19px;
+  font-weight: 500;
+  line-height: 33.28px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.apply-btn {
+  width: Fixed (187.53px) px;
+  height: Hug (56.64px) px;
+  top: 349.36px;
+  left: 852.04px;
+  padding: 11.82px 23.64px 11.82px 23.64px;
+  gap: 7.88px;
+  border-radius: 14.97px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 22.19px;
+  font-weight: 500;
+  line-height: 33.28px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  background-color: #554a98;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.gallery-link {
+  display: flex;
+  align-items: center;
+  font-family: Poppins;
+  font-size: 13.37px;
+  font-weight: 500;
+  line-height: 20.06px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  padding-left: 70%;
+}

@@ -1,0 +1,23 @@
+.top-courses {
+  background-color: #e4e1f6;
+}
+
+.course-t {
+  font-family: Poppins;
+  font-size: 41px;
+  font-weight: 700;
+  line-height: 61.5px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+  padding-left: 200px;
+  padding-top: 70px;
+}
+
+.sec {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding-left: 199px;
+}

@@ -1,0 +1,21 @@
+.dropdown {
+  height: 40px;
+  width: 70%;
+
+  padding: 15px 38px 15px 38px;
+
+  border-radius: 13px;
+  opacity: 0px;
+  background-color: #dad3ff;
+  font-family: Poppins;
+  font-size: 27.51px;
+  font-weight: 500;
+  line-height: 41.27px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+}

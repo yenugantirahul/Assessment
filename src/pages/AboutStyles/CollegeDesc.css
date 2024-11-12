@@ -1,0 +1,50 @@
+.college-desc {
+  width: 90%;
+  padding-left: 100px;
+  padding-top: 80px;
+}
+
+.about-college {
+  font-family: Poppins;
+  font-size: 21.99px;
+  font-weight: 500;
+  line-height: 45.98px;
+
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.admissions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 50px;
+}
+
+.adm-btn {
+  width: Hug (234px) px;
+  height: Hug (53px) px;
+  padding: 10px 20px 10px 20px;
+  gap: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: #554a98;
+  opacity: 0px;
+  color: white;
+  font-family: Poppins;
+  font-size: 21.99px;
+  font-weight: 500;
+  line-height: 32.98px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.msg-btn {
+  padding: 11px 15px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  background-color: #554a98;
+}

@@ -1,0 +1,95 @@
+.card-c {
+  background-color: #dad3ff;
+  width: 602px;
+  height: 420.23px;
+  gap: 0px;
+  border-radius: 9.95px;
+  opacity: 0px;
+  margin-left: 20%;
+}
+.details-c {
+  display: flex;
+  gap: 20px;
+  padding-top: 15px;
+  padding-left: 0px;
+}
+.others1-c {
+  display: flex;
+  align-items: center;
+  gap: 260px;
+  color: #554a98;
+}
+.others2-c {
+  display: flex;
+  align-items: center;
+  gap: 212px;
+  color: #554a98;
+}
+.info-c {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-left: 60px;
+}
+a {
+  text-decoration: none;
+  color: #554a98;
+  font-family: Poppins;
+  font-size: 12.44px;
+  font-weight: 400;
+  line-height: 18.66px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.line-c {
+  border: 0;
+  height: 1px;
+  background-color: black;
+  width: 450px; /* Set to full width of the card */
+  max-width: 450px; /* Adjust based on how long you want the line */
+  align-self: flex-start; /* Prevents flex stretching if in flex context */
+}
+
+.uni-name-c {
+  font-family: Poppins;
+  font-size: 22.39px;
+  font-weight: 500;
+  line-height: 33.58px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.uni-location-c {
+  font-family: Poppins;
+  font-size: 17.41px;
+  font-weight: 400;
+  line-height: 26.12px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 30px;
+  margin-top: 5px;
+}
+
+.star-c {
+  margin-top: 2px;
+}
+
+.rating-c {
+  display: flex;
+  gap: 5px;
+}
+
+@media (max-width: 768px) {
+  .card-container {
+    grid-template-columns: repeat(
+      1,
+      1fr
+    ); /* 1 card per row on smaller screens */
+  }
+}

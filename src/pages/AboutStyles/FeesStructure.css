@@ -1,0 +1,26 @@
+.fee-structure {
+  text-align: center;
+
+  padding-top: 85px;
+}
+.fee-heading {
+  font-family: Poppins;
+  font-size: 40.06px;
+  font-weight: 600;
+  line-height: 60.09px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+}
+
+.college-fee {
+  font-family: Poppins;
+  font-size: 23.78px;
+  font-weight: 800;
+  line-height: 35.67px;
+
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #7a6ad7;
+}

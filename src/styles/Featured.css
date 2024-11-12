@@ -1,0 +1,48 @@
+.top-collegs {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 cards per row */
+  gap: 20px;
+  padding: 20px;
+  background-color: #e4e1f6;
+}
+
+.top-c {
+  background-color: #e4e1f6;
+  font-family: Poppins;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 62.5px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+  align-items: center;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+}
+
+.v-btn-c {
+  background-color: rgba(85, 74, 152, 1);
+  color: rgba(255, 255, 255, 1);
+  font-family: Poppins;
+  margin-top: 20px;
+  font-size: 28.37px;
+  font-weight: 400;
+  line-height: 42.56px;
+  text-align: justified;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  border: none;
+  width: 250px;
+  height: Hug (62.5px) px;
+  top: 379.74px;
+  left: 807.09px;
+
+  padding: 9.75px 19.5px 9.75px 19.5px;
+  gap: 9.75px;
+  border-radius: 8.77px;
+  opacity: 0px;
+  margin-left: 92%;
+}

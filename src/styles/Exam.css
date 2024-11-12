@@ -1,0 +1,67 @@
+.exam-box {
+  width: Fill (1, 193px) px;
+  margin-left: 200px;
+  margin-top: 30px;
+  margin-right: 100px;
+  height: Hug (237px) px;
+  padding: 20px 40px 20px 40px;
+  gap: 50px;
+  border-radius: 9px;
+  border: 2px solid #000000;
+  opacity: 0px;
+  display: flex;
+}
+
+.exam-info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.exam-logo {
+  width: 191px;
+  height: 195px;
+  gap: 0px;
+  border-radius: 9px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.exam-name {
+  font-family: Poppins;
+  font-size: 38.54px;
+  font-weight: 500;
+  line-height: 57.8px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+}
+
+.exam-desc {
+  font-family: Poppins;
+  font-size: 23.19px;
+  font-weight: 400;
+  line-height: 34.78px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.exam-btn {
+  font-family: Poppins;
+  font-size: 23.19px;
+  font-weight: 400;
+  line-height: 34.78px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  width: 100px;
+  height: 45px;
+  gap: 0px;
+  opacity: 0px;
+  text-align: center;
+  background-color: #554a98;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}

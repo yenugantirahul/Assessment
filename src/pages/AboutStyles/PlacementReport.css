@@ -1,0 +1,38 @@
+.placement-year {
+  font-family: Poppins;
+  font-size: 41.26px;
+  font-weight: 600;
+  line-height: 61.89px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+  padding-left: 70px;
+  padding-top: 90px;
+}
+
+.about-placement {
+  width: 70%;
+  font-family: Poppins;
+  padding-left: 300px;
+  font-size: 25.31px;
+  font-weight: 400;
+  line-height: 37.96px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-top: 30px;
+}
+
+.placement-highlight {
+  font-family: Poppins;
+  font-size: 41.26px;
+  font-weight: 600;
+  line-height: 61.89px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+  padding-left: 70px;
+  padding-top: 30px;
+}

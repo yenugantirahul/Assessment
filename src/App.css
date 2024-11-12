@@ -1,0 +1,58 @@
+/* src/App.css 
+.App {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.header {
+  background-color: #e6e6ff;
+  text-align: center;
+  padding: 20px;
+}
+
+.top-universities,
+.featured-colleges,
+.explore-courses,
+.top-courses,
+.entrance-exams,
+.latest-articles {
+  padding: 20px;
+  margin: 10px;
+}
+
+.university-list,
+.college-list,
+.article-list {
+  display: flex;
+  gap: 15px;
+}
+
+.university-card,
+.college-card,
+.exam-card,
+.article-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  width: 200px;
+  text-align: center;
+}
+
+.course-tags,
+.course-categories {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.course-tag,
+.course-categories button {
+  background-color: #e6e6ff;
+  padding: 5px;
+}
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}

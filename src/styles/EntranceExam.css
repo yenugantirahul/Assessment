@@ -1,0 +1,16 @@
+.entrance-exams {
+  background-color: #e4e1f6;
+}
+
+.e-head {
+  font-family: Poppins;
+  font-size: 49.47px;
+  font-weight: 700;
+  line-height: 74.2px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+  padding-left: 195px;
+  padding-top: 50px;
+}

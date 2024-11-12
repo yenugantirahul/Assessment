@@ -1,0 +1,106 @@
+.article {
+  width: 372.59px;
+  height: 379.78px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #dad3ff;
+  border-radius: 5px;
+  padding-bottom: 10px;
+}
+.article-image {
+  padding-left: 10px;
+  padding-top: 5px;
+}
+.article-border {
+  width: 337.79px;
+  height: 359.75px;
+  position: relative;
+  top: 17.08px;
+  left: 18.42px;
+  gap: 0px;
+  border-radius: 25.09px;
+  opacity: 0px;
+  background-color: #fffafa;
+  display: flex;
+  flex-direction: column;
+}
+
+.company-logo {
+  position: relative;
+  padding-top: 20px;
+  padding-left: 32%;
+  font-family: Poppins;
+  font-size: 15.01px;
+  font-weight: 600;
+  line-height: 22.52px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+  display: flex;
+}
+
+.article-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.article-name {
+  font-family: Poppins;
+  font-size: 15.01px;
+  font-weight: 600;
+  line-height: 22.52px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: black;
+}
+
+.article-desc {
+  font-family: "poppins", sans-serif;
+  font-size: 10.45px;
+  font-weight: 400;
+  line-height: 15.68px;
+  text-align: left;
+  padding-right: 10px;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  text-align: left;
+  color: #554a98;
+}
+
+.article-btn {
+  height: 29px;
+  width: 50px;
+  position: absolute;
+  bottom: 10px;
+  padding: 18px 100px 18px 35px;
+  margin-left: 28%;
+  gap: 6.59px;
+  border-radius: 20.91px;
+  opacity: 0px;
+  background-color: #554a98;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  color: white;
+  border: none;
+  font-family: Poppins;
+  font-size: 20.91px;
+  font-weight: 400;
+  line-height: 31.36px;
+  letter-spacing: 0.2em;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.article-btn:hover {
+  color: #554a98;
+  background-color: #fffafa;
+  cursor: pointer;
+  border: 2px solid #554a98;
+}

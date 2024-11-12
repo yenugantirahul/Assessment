@@ -1,0 +1,92 @@
+.card {
+  background-color: #dad3ff;
+  width: 602px;
+  height: 420.23px;
+  gap: 0px;
+  border-radius: 9.95px;
+  opacity: 0px;
+  margin-left: 20%;
+}
+.details {
+  display: flex;
+  gap: 20px;
+  padding-top: 15px;
+  padding-left: 20px;
+}
+.others1 {
+  display: flex;
+  align-items: center;
+  gap: 270px;
+}
+.others2 {
+  display: flex;
+  align-items: center;
+  gap: 252px;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+a {
+  text-decoration: none;
+  color: #554a98;
+  font-family: Poppins;
+  font-size: 12.44px;
+  font-weight: 400;
+  line-height: 18.66px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.line {
+  border: 0;
+  height: 1px;
+  background-color: black;
+  width: 450px; /* Set to full width of the card */
+  max-width: 450px; /* Adjust based on how long you want the line */
+  align-self: flex-start; /* Prevents flex stretching if in flex context */
+}
+
+.uni-name {
+  font-family: Poppins;
+  font-size: 22.39px;
+  font-weight: 500;
+  line-height: 33.58px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.uni-location {
+  font-family: Poppins;
+  font-size: 17.41px;
+  font-weight: 400;
+  line-height: 26.12px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 40px;
+  margin-top: 5px;
+}
+
+.star {
+  margin-top: 2px;
+}
+
+.rating {
+  display: flex;
+  gap: 5px;
+}
+
+@media (max-width: 768px) {
+  .card-container {
+    grid-template-columns: repeat(
+      1,
+      1fr
+    ); /* 1 card per row on smaller screens */
+  }
+}

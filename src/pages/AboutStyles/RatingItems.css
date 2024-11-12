@@ -1,0 +1,40 @@
+/* Main container for the rating item */
+.rating-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px; /* Spacing between items */
+}
+
+/* Label for the rating item */
+.rating-item-label {
+  width: 30%;
+  font-size: 0.875rem; /* Font size for label */
+  color: #4b5563; /* Gray color */
+  font-weight: 500;
+}
+
+/* Background bar for the rating */
+.rating-bar-bg {
+  width: 50%; /* Width of the bar background */
+  background-color: #c4b5fd; /* Light purple */
+  border-radius: 9999px;
+  height: 10px; /* Height of the bar */
+  margin: 0 8px; /* Margin for spacing */
+  position: relative;
+}
+
+/* Foreground bar to represent the rating percentage */
+.rating-bar {
+  background-color: #7c3aed; /* Purple color */
+  height: 20px;
+  border-radius: 9999px;
+  width: 100%; /* Full rounding */
+}
+
+/* Percentage displayed to the right of the bar */
+.rating-percentage {
+  width: 20%; /* Width for the percentage label */
+  font-size: 0.875rem;
+  color: #4b5563;
+  text-align: right;
+}

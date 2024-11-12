@@ -1,0 +1,19 @@
+.gallery-heading {
+  font-family: Poppins;
+  font-size: 41.26px;
+  font-weight: 600;
+  line-height: 61.89px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+  padding-left: 70px;
+  padding-top: 50px;
+}
+
+.images {
+  display: flex;
+  gap: 90px;
+  padding-left: 250px;
+  padding-top: 50px;
+}

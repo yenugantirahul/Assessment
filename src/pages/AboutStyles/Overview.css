@@ -1,0 +1,29 @@
+.overview {
+  background-color: #e4e1f6;
+  padding-left: 100px;
+  padding-top: 30px;
+}
+
+.overview ul li {
+  list-style: none;
+  width: Hug (136.41px) px;
+  height: Hug (48.2px) px;
+  padding: 9.1px 18.2px 9.1px 18.2px;
+  gap: 9.1px;
+  border-radius: 4.55px;
+  opacity: 0px;
+  background-color: #554a98;
+  color: white;
+  font-family: "poppins", sans-serif;
+  font-size: 20.01px;
+  font-weight: 400;
+  line-height: 30.02px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.overview ul {
+  display: flex;
+  justify-content: space-between;
+}

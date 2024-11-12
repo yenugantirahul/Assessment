@@ -1,0 +1,59 @@
+.explore-courses {
+  background-color: #e4e1f6;
+  padding-left: 200px;
+  padding-top: 50px;
+}
+
+.c-head {
+  font-family: Poppins;
+  font-size: 40.03px;
+  font-weight: 700;
+  line-height: 60.05px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+}
+
+.course-categories li {
+  list-style: none;
+  font-family: "poppins", sans-serif;
+  width: Hug (237.3px) px;
+  height: Hug (70.53px) px;
+  padding: 9.76px 35.15px 9.76px 35.15px;
+  gap: 3.91px;
+  border-radius: 29.29px;
+  border: 0.98px solid #000000;
+  opacity: 0px;
+  background-color: #ffffff;
+  color: #554a98;
+  font-family: Poppins;
+  font-size: 34.17px;
+  font-weight: 300;
+  line-height: 51.26px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+.boxes {
+  display: flex;
+  margin-top: 20px;
+  margin-right: 50px;
+  justify-content: space-between;
+}
+
+.big {
+  height: 10px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: #000000;
+}

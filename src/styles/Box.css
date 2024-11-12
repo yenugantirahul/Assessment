@@ -1,0 +1,89 @@
+.box {
+  width: 427px;
+  height: Hug (306.48px) px;
+  padding: 16.6px 16px 16.6px 16px;
+  gap: 14.65px;
+  border-radius: 7.81px;
+  opacity: 0px;
+  background-color: #ffffff;
+}
+
+.course {
+  display: flex;
+  flex-direction: column;
+  padding-left: 30px;
+}
+
+.cn {
+  font-family: Poppins;
+  font-size: 24.41px;
+  font-weight: 400;
+  line-height: 36.61px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #000000;
+}
+
+.cd {
+  font-family: Poppins;
+  font-size: 19.53px;
+  font-weight: 300;
+  line-height: 29.29px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #7a6ad7;
+}
+
+.type,
+.fees {
+  display: flex;
+  align-items: center;
+  gap: 150px;
+  margin-top: 20px;
+}
+
+.hori {
+  border: none; /* Remove default border */
+  border-top: 1px solid #000; /* Set a 1px top border */
+  margin-left: 30px; /* Optional: adjust margin */
+  width: 90%;
+  margin-top: 20px;
+}
+
+.number {
+  display: flex;
+  align-items: center;
+  gap: 170px;
+  margin-top: 20px;
+}
+.right {
+  color: #554a98;
+  font-family: Poppins;
+  font-size: 19.53px;
+  font-weight: 300;
+  line-height: 29.29px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.cv {
+  display: flex;
+  gap: 190px;
+  margin-left: 30px;
+  font-family: Poppins;
+  font-size: 24.41px;
+  font-weight: 400;
+  line-height: 36.61px;
+  text-align: left;
+  margin-top: 20px;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  align-items: center;
+}
+
+.cv p {
+  color: #554a98;
+}

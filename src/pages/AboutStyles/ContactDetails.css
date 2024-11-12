@@ -1,0 +1,114 @@
+.contact-details {
+  margin-left: 300px;
+}
+.contact-heading {
+  font-family: Poppins;
+  font-size: 41.26px;
+  font-weight: 600;
+  line-height: 61.89px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+  margin-right: 200px;
+  padding-top: 50px;
+  margin-bottom: 20px;
+}
+
+.college-contacts {
+  width: 1281px;
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.1);
+  height: 315.16px;
+
+  gap: 0px;
+  border-radius: 18.65px;
+  opacity: 0px;
+  background-color: #dad3ff;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.contact-name {
+  font-family: Poppins;
+  font-size: 31px;
+  font-weight: 600;
+  line-height: 46.49px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+}
+
+.contact-location {
+  font-family: Poppins;
+  font-size: 26.63px;
+  font-weight: 500;
+  line-height: 39.95px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #7a6ad7;
+}
+
+.phone-numbers {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+  font-family: Poppins;
+  font-size: 26.63px;
+  font-weight: 500;
+  line-height: 39.95px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-top: 20px;
+}
+
+.contact-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin-left: 30px;
+  padding-top: 20px;
+}
+
+.contact-us {
+  width: Hug (149.91px) px;
+  height: Hug (50.45px) px;
+  padding: 10.23px 20.45px 10.23px 20.45px;
+  gap: 6.82px;
+  border-radius: 8.18px;
+  border: 1.36px 0px 0px 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 19.78px;
+  font-weight: 400;
+  line-height: 29.66px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.view-location {
+  width: Hug (187.91px) px;
+  height: Hug (50.45px) px;
+  padding: 10.23px 20.45px 10.23px 20.45px;
+  gap: 6.82px;
+  border-radius: 8.18px;
+  opacity: 0px;
+  background-color: #554a98;
+  color: white;
+  font-family: Poppins;
+  font-size: 19.78px;
+  font-weight: 400;
+  line-height: 29.66px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  border: none;
+}

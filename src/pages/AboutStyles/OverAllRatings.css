@@ -1,0 +1,135 @@
+.overall-heading {
+  font-family: Poppins;
+  font-size: 41.26px;
+  font-weight: 600;
+  line-height: 61.89px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+  padding-left: 70px;
+  padding-top: 50px;
+}
+
+.rating-component {
+  padding-left: 270px;
+  display: flex;
+  margin-top: 50px;
+}
+.overall-para {
+  font-family: Poppins;
+  font-size: 29.51px;
+  font-weight: 600;
+  line-height: 44.27px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #7a6ad7;
+  text-align: center;
+  padding-left: 70px;
+}
+
+.rating-info {
+  background-color: #dad3ff;
+  width: 653px;
+  height: 487.3px;
+  padding-left: 90px;
+  gap: 0px;
+  opacity: 0px;
+}
+.component {
+  background-color: #dad3ff;
+
+  border-radius: 5px 0 0 0;
+  display: flex;
+  gap: 80px;
+  padding-top: 50px;
+  padding-left: 35px;
+  font-family: Poppins;
+  font-size: 29.89px;
+  font-weight: 400;
+  line-height: 44.83px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+}
+
+.info-heading {
+  font-family: Poppins;
+  font-size: 27.78px;
+  font-weight: 400;
+  line-height: 41.67px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+  padding-top: 55px;
+}
+
+.all-info {
+  display: flex;
+  gap: 20px;
+  margin-top: 80px;
+}
+
+.info-img {
+  width: 122px;
+  height: 119px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.info-desc {
+  font-family: Poppins;
+  font-size: 21.69px;
+  font-weight: 400;
+  line-height: 32.54px;
+  width: 450px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.no-review {
+  color: white;
+}
+
+.last-row {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-between;
+}
+
+.info-icon {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.write-review {
+  width: Hug (164.95px) px;
+  height: Hug (40.47px) px;
+  padding: 7.24px 14.47px 7.24px 14.47px;
+  gap: 7.24px;
+  border-radius: 7.24px;
+  border: none;
+  opacity: 0px;
+  color: white;
+  background-color: #554a98;
+  margin-right: 70px;
+}
+
+.rate {
+  width: Fixed (63px) px;
+  height: Hug (37.07px) px;
+  top: 3317px;
+  left: 578px;
+  padding: 1.54px 15.37px 1.54px 15.37px;
+  gap: 7.68px;
+  border-radius: 11.52px;
+  opacity: 0px;
+  color: white;
+  background-color: #554a98;
+}

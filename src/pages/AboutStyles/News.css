@@ -1,0 +1,75 @@
+.news {
+  width: 650px;
+  height: Hug (355px) px;
+  top: 5540px;
+  left: 63px;
+  padding: 32.06px 0px 0px 0px;
+  gap: 16.03px;
+  border-radius: 32.06px;
+  opacity: 0px;
+  background-color: #dad3ff;
+  display: flex;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  gap: 30px;
+}
+
+.news-heading {
+  font-family: Poppins;
+  font-size: 21.34px;
+  font-weight: 500;
+  line-height: 32.01px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #554a98;
+}
+
+.news-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.news-date {
+  font-family: Poppins;
+  font-size: 13.25px;
+  font-weight: 500;
+  line-height: 19.88px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #7a6ad7;
+}
+
+.news-desc {
+  font-family: Poppins;
+  font-size: 15.75px;
+  font-weight: 400;
+  line-height: 22.13px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  width: 360px;
+  margin-top: 10px;
+}
+
+.news-btn {
+  width: 100px;
+  height: 35px;
+
+  padding: 8.81px 8.81px 8.81px 16px;
+  gap: 8.81px;
+  border-radius: 8.81px;
+  opacity: 0px;
+  background-color: #554a98;
+  color: white;
+  border: none;
+  font-family: Poppins;
+  font-size: 12.17px;
+  font-weight: 400;
+  line-height: 18.25px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-top: 10px;
+}
